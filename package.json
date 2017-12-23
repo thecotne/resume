@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "scripts": {
+    "resume": "yarn resume:export && yarn resume:publish",
+    "resume:test": "resume test",
+    "resume:publish": "resume publish --theme paper-condensed",
+    "resume:export": "resume export cotne_nazarashvili_resume.pdf --theme paper-condensed"
+  },
+  "dependencies": {
+    "jsonresume-theme-paper-condensed": "^0.3.4",
+    "resume-cli": "^0.4.19"
+  }
+}

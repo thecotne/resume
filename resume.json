@@ -1,0 +1,178 @@
+{
+  "basics": {
+    "name": "Cotne Nazrashvili",
+    "label": "Software Engineer",
+    "picture": "",
+    "email": "cotne.95@gmail.com",
+    "phone": "",
+    "website": "https://cotne.com",
+    "summary": "I am always out for improving my work finding better tools or automating tasks. recently I find functional programming and pure code very interesting. i am also interested in system administration. i am also trying to give back to open source community by helping projects that i use when i can",
+    "location": {
+      "city": "Tbilisi",
+      "region": "Georgia"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "thecotne",
+        "url": "https://github.com/thecotne"
+      },
+      {
+        "network": "Facebook",
+        "username": "cotnen",
+        "url": "https://www.facebook.com/cotnen"
+      },
+      {
+        "network": "Twitter",
+        "username": "thecotne",
+        "url": "https://twitter.com/thecotne"
+      },
+      {
+        "network": "linkedin",
+        "username": "cotne",
+        "url": "https://www.linkedin.com/in/cotne/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "ITDC",
+      "position": "Software Engineer",
+      "website": "http://www.itdc.ge",
+      "startDate": "2013-10-01",
+      "summary": "i have worked with many interesting project like",
+      "highlights": [
+        "myvideo.ge - Biggest georgian video portal",
+        "imovies.ge - free online Movies and TV series",
+        "tvibo.com - Media Streaming",
+        "iliauni.edu.ge - Ilia State University",
+        "Ilia State University billing system",
+        "pepela.ge - toy store",
+        "maika.ge - Custom T-Shirts and T-Shirt Printing",
+        "investingeorgia.org - website",
+        "my.gov.ge - Citizen's portal",
+        "aldagi.ge - Aldagi Insurance Company",
+        "profile.aldagi.ge - Aldagi Users Portal",
+        "tbilisi2015.com - EYOF Tbilisi 2015"
+      ]
+    },
+    {
+      "company": "Youlook Ltd.",
+      "position": "Full Stack Web Developer",
+      "website": "https://www.youlook.ge/",
+      "startDate": "2013-05-01",
+      "endDate": "2013-09-30",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [],
+  "awards": [
+    {
+      "title": "1st Place In Web Design And Development",
+      "awarder": "WorldSkills Georgia 2017"
+    },
+    {
+      "title": "2st Place In Web Design And Development",
+      "awarder": "WorldSkills Georgia 2014"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Front-end Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "React",
+        "Redux",
+        "sass",
+        "less",
+        "bootstrap",
+        "GreenSock",
+        "jquery",
+        "Ramda",
+        "lodash",
+        "webpack",
+        "gulp",
+        "babel",
+        "flow"
+      ]
+    },
+    {
+      "name": "Back-end Development",
+      "level": "Advanced",
+      "keywords": [
+        "php",
+        "laravel",
+        "CodeIgniter",
+        "mysql",
+        "mongodb",
+        "Nodejs",
+        "python"
+      ]
+    },
+    {
+      "name": "System Administration",
+      "level": "beginner",
+      "keywords": [
+        "bash",
+        "zsh",
+        "vagrant",
+        "docker"
+      ]
+    },
+    {
+      "name": "Other Skils",
+      "level": "",
+      "keywords": [
+        "git",
+        "photoshop",
+        "ilustrator",
+        "figma",
+        "VS Code",
+        "Sublime text"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Georgian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Functional Programming",
+      "keywords": [
+        "elm",
+        "purescript"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Sergo Karakozov",
+      "reference": "Cotne always on the look out for new technologies to implement in his work and when he finds a new subject of interest, he digs so deep that is he becomes sort of an expect on a subject in a very short time. Cotne is very honest and straight forward. I'm proud of having him on a team! I'm sure he has a very bright and successful future ahead of him."
+    },
+    {
+      "name": "Yana Moskalenko",
+      "reference": "Cotne, is very passionate about his work, eager to learn more, honest and tries to make his job better using only the best tools and proven methods.Strongly recommended!"
+    },
+    {
+      "name": "Avtandil Kikabidze",
+      "reference": "Cotne has good knowledge of Front-end development. Highly recommended"
+    }
+  ]
+}
