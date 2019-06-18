@@ -30,16 +30,25 @@
       {
         "network": "linkedin",
         "username": "cotne",
-        "url": "https://www.linkedin.com/in/cotne/"
+        "url": "https://www.linkedin.com/in/cotne"
       }
     ]
   },
   "work": [
     {
+      "company": "MyDoc.ge",
+      "position": "Software Engineer",
+      "website": "https://mydoc.ge",
+      "startDate": "2019-04-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
       "company": "ITDC",
       "position": "Software Engineer",
       "website": "http://www.itdc.ge",
       "startDate": "2013-10-01",
+      "endDate": "2019-03-29",
       "summary": "i have worked with many interesting project like",
       "highlights": [
         "myvideo.ge - Biggest georgian video portal",

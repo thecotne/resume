@@ -1,10 +1,11 @@
 {
   "private": true,
   "scripts": {
-    "resume": "yarn resume:export && yarn resume:publish",
+    "resume": "yarn resume:test && yarn resume:export",
     "resume:test": "resume test",
-    "resume:publish": "resume publish --theme paper-condensed",
-    "resume:export": "resume export cotne_nazarashvili_resume.pdf --theme paper-condensed"
+    "resume:export": "yarn resume:export:pdf && yarn resume:export:html",
+    "resume:export:pdf": "resume export cotne_nazarashvili_resume.pdf --theme paper-condensed",
+    "resume:export:html": "resume export cotne_nazarashvili_resume.html --theme paper-condensed"
   },
   "dependencies": {
     "jsonresume-theme-paper-condensed": "^0.3.4",
